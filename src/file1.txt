@@ -2,4 +2,13 @@ this is file1 sdflsjfosjewojirwoe
 
 Edited
 
+<<<<<<< HEAD
 Edited 2nd time
+=======
+Edited 3rd time
+
+
+Edited 4th time
+
+Modified in Sathi
+>>>>>>> master
